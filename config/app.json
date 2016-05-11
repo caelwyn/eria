@@ -1,0 +1,10 @@
+{
+  "network": {
+    "host": "0.0.0.0",
+    "port": "80"
+  },
+  "logs": {
+    "file": "logs/app.log",
+    "level": "DEBUG"
+  }
+}
